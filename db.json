@@ -1,0 +1,22 @@
+{
+  "reservations": [
+    {
+      "id": 1,
+      "guestName": "harish",
+      "guestEmail": "test@gmai.com",
+      "roomNumber": 1,
+      "checkInDate": "2023-10-10",
+      "checkOutDate": "2023-10-20"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
